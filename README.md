@@ -46,4 +46,4 @@ options:
 
 ### UI界面
 
-![image-20230329162553868](F:/image/image-20230329162553868.png)
+![image-20230329162553868](https://github.com/NewBeginning6/poc-g/blob/main/)image-20230329162553868.png)
