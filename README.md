@@ -29,17 +29,17 @@ options:
 
 > 生成一个test.py文件，GET请求，URL路径为/index.html，当状态码为200的时候显示漏洞存在
 
-![image-20230328135029845](F:\image\image-20230328135029845.png)
+![image-20230328135029845](https://github.com/NewBeginning6/poc-g/blob/main/image-20230328135029845.png)
 
 > 生成一个test.py文件，POST请求，请求体为username=admin&password=123456&submit=login，当状态码为200并且响应包包含"login success"的时候显示漏洞存在
 
-![image-20230329111419602](F:\image\image-20230329111419602.png)
+![image-20230329111419602](https://github.com/NewBeginning6/poc-g/blob/main/image-20230329111419602.png)
 
 > 生成一个test.py文件，POST请求，上传文件1.png，当响应包包含"上传成功"的时候显示漏洞存在
 
-![image-20230329112353125](F:\image\image-20230329112353125.png)
+![image-20230329112353125](https://github.com/NewBeginning6/poc-g/blob/main/image-20230329112353125.png)
 
 >生成一个test.py文件，PUT请求，请求体为id=1，当状态码为200的时候显示漏洞存在
 
-![image-20230329112941992](F:\image\image-20230329112941992.png)
+![image-20230329112941992](https://github.com/NewBeginning6/poc-g/blob/main/image-20230329112941992.png)
 
